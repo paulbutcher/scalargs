@@ -1,4 +1,4 @@
-package com.paulbutcher.Scalargs.test
+package com.paulbutcher.Scalargs.example
 
 import com.paulbutcher.Scalargs.{Parser, arg}
 
