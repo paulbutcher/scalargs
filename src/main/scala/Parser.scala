@@ -1,4 +1,4 @@
-package com.paulbutcher.Scalargs
+package com.paulbutcher.scalargs
 
 class Parser(descriptions: ArgumentHandler*) {
   def parse(args: Array[String]) = {

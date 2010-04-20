@@ -1,6 +1,6 @@
-package com.paulbutcher.Scalargs.example
+package com.paulbutcher.scalargs.example
 
-import com.paulbutcher.Scalargs.{Parser, arg}
+import com.paulbutcher.scalargs.{Parser, arg}
 
 object Test {
   def main(args: Array[String]) {

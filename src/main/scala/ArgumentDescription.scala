@@ -1,4 +1,4 @@
-package com.paulbutcher.Scalargs
+package com.paulbutcher.scalargs
 
 class ArgumentDescription[T: Manifest](
     action: T => Unit,
